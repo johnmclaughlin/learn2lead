@@ -1,2 +1,2 @@
-# Learn2Lead
-Scott Stolze web application
+# Maclean Lif Coaching
+Rebecca Maclean web application

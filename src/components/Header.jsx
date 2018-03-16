@@ -284,7 +284,7 @@ export default class Header extends React.Component { // eslint-disable-line rea
                   </IconButton>
             </div>
             <Typography type="title" gutterBottom color="inherit" style={flex}>
-                    Create Your Great <span className="desktop">How To Create Your Dream Career</span>
+                    Maclean Life Coaching<span className="desktop">Release yesterday; embrace today</span>
             </Typography>
             <div className="controls">
               <div className="controls__user">

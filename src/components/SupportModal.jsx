@@ -32,6 +32,7 @@ class SimpleModal extends React.Component {
   };
 
   handleOpenModal = () => {
+    console.log('click';)
     this.setState({ open: true });
   };
 
@@ -57,7 +58,7 @@ class SimpleModal extends React.Component {
               We're here to help!
             </Typography>
             <Typography variant="subheading" id="simple-modal-description">
-              Having trouble with the website? Please send us an email at <a href="mailto:support@teaching2lead.com?subject=I'm having trouble with...">support@teaching2lead.com</a>
+              Having trouble with the website? Please send us an email at <a href="mailto:support@macleanlifecoachin.com?subject=I'm having trouble with...">support@macleanlifecoaching.com</a>
             </Typography>
           </div>
         </Modal>
